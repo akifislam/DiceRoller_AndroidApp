@@ -1,3 +1,5 @@
+// Dice Roller without Image
+
 package com.akifislam.diceroller
 
 import androidx.appcompat.app.AppCompatActivity
