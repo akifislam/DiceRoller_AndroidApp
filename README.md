@@ -10,4 +10,9 @@
 
 
 ## Preview
-<p align="center"> <img src="./sample.png" width="360" height="640"> </p>
+<p align="center"> 
+  <img src="./cube1.png" width="180" height="320"> 
+  <img src="./cube2.png" width="180" height="320"> 
+  <img src="./cube4.png" width="180" height="320"> 
+  <img src="./cube6.png" width="180" height="320"> 
+</p>
