@@ -3,6 +3,7 @@
 ## Built With
 - [Android Studio](https://developer.android.com/studio)
 - [Kotlin](https://developer.android.com/kotlin) (Though didn't write a single line of kotlin code here)
+- Github Copilot
 
 ## Features
 - Count 1 to 6 Randomly
