@@ -13,8 +13,5 @@
 ## Preview
 - Pressing the "ROLL" button may show any digit randomly from 1 to 6. These are some of the demonstration shots :
 <p align="center"> 
-  <img src="./cube1.png" width="180" height="320"> 
-  <img src="./cube2.png" width="180" height="320"> 
-  <img src="./cube4.png" width="180" height="320"> 
-  <img src="./cube6.png" width="180" height="320"> 
+  <img src="./DiceRoller.gif" width="180" height="320"> 
 </p>
